@@ -20,7 +20,7 @@ export default function Form(props) {
           imcCalculator()
           setHeight(null)
           setWeight(null)
-          setMessageImc("Seu imc é igual:")
+          setMessageImc("Seu imc é:")
           setTextButton("Calcular Novamente")
           return
         }
